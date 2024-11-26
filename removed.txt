@@ -1,0 +1,56 @@
+1. index.html, section bw the hero and the description sections 
+
+    <!-- Customers -->
+    <div class="slider-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                    <!-- Image Slider -->
+                    <div class="slider-container">
+                        <div class="swiper-container image-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-1.png" alt="alternative">
+                                </div>
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-2.png" alt="alternative">
+                                </div>
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-3.png" alt="alternative">
+                                </div>
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-4.png" alt="alternative">
+                                </div>
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-5.png" alt="alternative">
+                                </div>
+                                <div class="swiper-slide">
+                                        <img class="img-fluid" src="images/customer-logo-6.png" alt="alternative">
+                                </div>
+                            </div> <!-- end of swiper-wrapper -->
+                        </div> <!-- end of swiper container -->
+                    </div> <!-- end of slider-container -->
+                    <!-- end of image slider -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of slider-1 -->
+    
+    <!-- end of customers -->
+
+
+
+
+
+
+
+Vikas Gupta, 5-year Amazon Seller
+
+Since using EcomBuddha's optimization tools, our organic rankings have improved dramatically. We've been able to cut our PPC spend by 28% while maintaining the same sales volume. The infographic generator alone saves us INR 20,000/month in design costs.
+Pooja Kapoor, E-commerce Head
+
+I was skeptical about AI-generated content, but EcomBuddha proved me wrong. Our listings are performing better than ever, and the time savings are incredible.
+Vivek Srinivasan, 2-Year Amazon Seller
+
