@@ -2,7 +2,7 @@ from PIL import Image
 import os
 
 # Specify the directory containing the images for the dictionary
-image_directory = "../resized"
+image_directory = "../images"
 
 # Dictionary to store image names and their dimensions
 image_dimensions = {}
